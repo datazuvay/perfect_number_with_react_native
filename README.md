@@ -1,1 +1,2 @@
-# perfect_numbeer_with_react_native
+This project is about creating an application. 
+Application is Perfect Number with React Native.
